@@ -8,14 +8,15 @@ En el desarrollo de esta aplicación, se empleó el uso del servicio API [Rick A
 
 Esta aplicación tiene como objetivo principal listar los personajes de la serie "Rick and Morty". En la lista principal, cada elemento mostrará:
 - Fotografía del personaje
-- Un indicador de estado (Rojo: Muerto, Verde: Vivo, Gris: Desconocido)
+- Un indicador de estado del personaje en la serie (Rojo: Muerto, Verde: Vivo, Gris: Desconocido)
 - Nombre del personaje
 - Especie del personaje (Humano, Alien, etc.)
 
 Al tocar cada personaje en la lista, se accederá a su detalle, donde se mostrarán aspectos como:
 - Fotografía del personaje
-- Estado (Vivo, Muerto o Desconocido)
-- Nombre
+- Estado del personaje en la serie (Vivo, Muerto o Desconocido)
+- Nombre del personaje
+- Especie (Humano, Alien, etc.) 
 - Género (Masculino, Femenino, etc.)
 - Planeta de origen
 - Último planeta conocido
