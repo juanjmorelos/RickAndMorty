@@ -1,6 +1,6 @@
-# Prueba técnica Global Mobility Apex, S.A.
+# Rick And Morty
 ### Descripción
-Para esta prueba se utilizó Jetpack Compose, un marco de trabajo moderno para la creación de interfaces de usuario. Se adoptó el patrón de arquitectura MVVM (Model View ViewModel) para estructurar la lógica y la presentación de la aplicación de manera modular.
+Para este proyecto se utilizó Jetpack Compose, un marco de trabajo moderno para la creación de interfaces de usuario. Se adoptó el patrón de arquitectura MVVM (Model View ViewModel) para estructurar la lógica y la presentación de la aplicación de manera modular.
 
 Adicionalmente, se implementaron prácticas de desarrollo reconocidas, como Clean Code (Código Limpio) y Don't Repeat Yourself (No te repitas), con el objetivo de mejorar la legibilidad, mantenibilidad y eficiencia del código fuente.
 
